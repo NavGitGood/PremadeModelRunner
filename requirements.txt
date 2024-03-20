@@ -1,3 +1,4 @@
+#uncomment if on Nvidia GPU
 #--extra-index-url https://download.pytorch.org/whl/cu118
 torch
 #torchvision
